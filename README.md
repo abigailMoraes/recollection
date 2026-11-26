@@ -1,4 +1,4 @@
-# Team09-Recollection
+#Recollection
 
 ## Development Plan Alignment
 Milestone 4 aligns with what we wanted to complete.
